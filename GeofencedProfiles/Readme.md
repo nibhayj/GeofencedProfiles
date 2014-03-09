@@ -1,0 +1,1 @@
+A toy android application for playing around with the Google Maps Geofencing API.
