@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geofenced Profiles</string>
+    <string name="title_activity_main">Geofenced Profiles</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_addlocation">Add New Location</string>
+    <string name="title_activity_add_location">Add New Location</string>
+
+</resources>
